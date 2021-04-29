@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+python-decouple
+BeautifulSoup4
+lxml
+
